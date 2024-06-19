@@ -16,7 +16,7 @@
 ## Image Preview
 ![Screenshot Main Page](./src/assets/images/capture.png)
 
-## :star: [Live Demo](https://distracted-shockley-e1f6ca.netlify.app/) :star:
+## :star: [Live Demo](https://animated-trifle-9d8446.netlify.app) :star:
 
 
 ## Getting Started
