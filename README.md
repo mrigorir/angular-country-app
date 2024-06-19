@@ -94,9 +94,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- This app was possible to make thanks to [restcountries.com](https://restcountries.com/)
+
 
 ## 📝 License
 
