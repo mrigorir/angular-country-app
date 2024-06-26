@@ -16,7 +16,7 @@
 ## Image Preview
 ![Screenshot Main Page](./src/assets/images/capture.png)
 
-## :star: [Live Demo](https://distracted-shockley-e1f6ca.netlify.app/) :star:
+## :star: [Live Demo](https://animated-trifle-9d8446.netlify.app) :star:
 
 
 ## Getting Started
@@ -94,9 +94,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- This app was possible to make thanks to [restcountries.com](https://restcountries.com/)
+
 
 ## 📝 License
 
